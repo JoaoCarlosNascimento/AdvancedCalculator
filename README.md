@@ -1,2 +1,3 @@
-# Python
-Here are some of my projects in Python
+# Advanced Calculator
+==========================
+Made a program that works like a calculator in order to understand how python works
